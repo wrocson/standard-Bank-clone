@@ -1,0 +1,44 @@
+html{
+	background-color: #F6F4F4;
+}
+body{
+	margin: auto auto;
+	font-style: arial;
+	background-color: #fff;
+}
+nav{
+	margin-left: 10px;
+    background-color: #009BD6;
+    background-image:
+    linear-gradient(
+      to right, 
+      #009BD6, #052174 
+    );
+}
+li.nav-item{
+	margin: 0 5px;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+a.nav-link{
+	color: #fff;
+}
+a.texto-link{
+	color: #000;
+}
+
+image-zone > img{
+	margin: 20px 0;
+}
+div.block{
+	margin-bottom: 30px;
+}
+h6{
+	color: #08288D;
+	font-weight: bolder;
+}
+p{
+	font-size: 16px;
+	margin-bottom: 0; 
+}
